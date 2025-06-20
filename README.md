@@ -142,7 +142,3 @@ To run a specific test file:
 ```bash
 pytest tests/test_core.py
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
